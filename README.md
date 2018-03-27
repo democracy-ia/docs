@@ -1,4 +1,4 @@
-# Architecting Information For An Open Source Citizenry (_docs_)
+# [Architecting Information for an Open Source Citizenry (_docs_)](https://github.com/democracy-ia/docs/#readme)
 
 [!["Architecting Information For An Open Source Citizenry" slideshare cover][ia18-slideshare-image]<br>Read "Architecting Information For An Open Source Citizenry" now ![link-external][icon-octicon-link-external]][ia18-slideshare-url].
 
